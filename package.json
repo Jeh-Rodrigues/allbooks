@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Jeh-Rodrigues/allbooks#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.20.0",
+    "express": "^5.0.0",
     "mongoose": "^8.6.1"
   }
 }
